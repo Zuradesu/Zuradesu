@@ -1,4 +1,4 @@
-2![logo](https://th.bing.com/th/id/R.dac45e8fa3937281d89227f7de11ce0c?rik=wfiE%2bhWdL1htgw&riu=http%3a%2f%2fgetdrawings.com%2fvectors%2fjapanese-wave-vector-36.png&ehk=8FClDAJIi3W8PvhO9crDUM3VVB7LoEgIADh0uo0ThPQ%3d&risl=&pid=ImgRaw&r=0)
+![logo](https://th.bing.com/th/id/R.dac45e8fa3937281d89227f7de11ce0c?rik=wfiE%2bhWdL1htgw&riu=http%3a%2f%2fgetdrawings.com%2fvectors%2fjapanese-wave-vector-36.png&ehk=8FClDAJIi3W8PvhO9crDUM3VVB7LoEgIADh0uo0ThPQ%3d&risl=&pid=ImgRaw&r=0)
 
 <h1 align="center">Hi 👋, I'm Aldo Brilliant Irianto</h1>
 <h3 align="center">Pemula dalam Membuat Website</h3>
